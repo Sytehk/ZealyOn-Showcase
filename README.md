@@ -41,6 +41,11 @@ A key design boundary separates the shared strategy record from each user's pers
 
 Flutter, Dart, Rust, Supabase, PostgreSQL, market-data integrations, and broker or exchange connections.
 
+## Get ZealyOn
+
+- [Download on the App Store](https://apps.apple.com/us/app/zealyon/id6771540212)
+- [Get it on Google Play](https://play.google.com/store/apps/details?id=com.zealyon.jayt)
+
 ## This repository
 
 This is a public project summary and visual preview. It does not include the private application source, proprietary strategy rules, credentials, customer information, or operational configuration.
